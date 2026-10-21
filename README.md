@@ -35,14 +35,16 @@
 ---
 
 ## 🌟 Featured Projects
-✨ Click to explore my favorite works! ✨
+✨ Click to explore my academic and personal projects! ✨
 
 | 🚀 Project | 🛠️ Tech Stack | 🌸 Highlights | 🔗 Links |
 |------------|---------------|---------------|----------|
-| 💻 Full Stack Developer – Academic Project | HTML · CSS · JavaScript · JSP/Servlet | Built a full web app with login, product listing & cart. Applied responsive design & Agile teamwork. | 📂 [Repo](https://github.com/your-repo-link) |
-| 🧪 Web Testing Project – Academic Project | Robot Framework · Selenium | Designed test cases (add to cart, search, checkout), followed keyword-driven approach, generated reports. | 📂 [Repo](https://github.com/your-repo-link) |
-| ✂️ Barber Booking System – Academic Project | Java · Spring MVC · JSP/Servlet · MySQL | Developed barber shop booking system. Implemented booking, customer management, and schedules. Applied MVC pattern & responsive design. | 📂 [Repo](https://github.com/your-repo-link) |
+| ⚖️ **Legal Consultation Appointment System** – Full Stack Developer · Academic Project | Next.js · TypeScript (TSX) · Spring Boot · REST API · MySQL | Developed a web-based legal consultation appointment system connecting clients and lawyers. Implemented client registration, legal consultation requests, lawyer assignment, appointment scheduling, quotations, payment submission, and appointment status management. | 📂 [Repository](https://github.com/your-repo-link) |
+| 💻 Full Stack Developer – Academic Project | HTML · CSS · JavaScript · JSP/Servlet | Built a full-stack web application with login, product listings, and a shopping cart. Applied responsive design principles. | 📂 [Repository](https://github.com/your-repo-link) |
+| 🧪 Web Testing Project – Academic Project | Robot Framework · Selenium | Designed test cases for search, cart, and checkout workflows. Applied keyword-driven testing and generated test reports. | 📂 [Repository](https://github.com/your-repo-link) |
+| ✂️ Barber Booking System – Academic Project | Java · Spring MVC · JSP/Servlet · MySQL | Developed a barber shop booking system with appointment booking, customer management, and schedule management using the MVC pattern. | 📂 [Repository](https://github.com/your-repo-link) |
 
+---
 ---
 
 ## 🧰 Tech Stack & Skills
