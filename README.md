@@ -39,7 +39,9 @@
 
 | 🚀 Project | 🛠️ Tech Stack | 🌸 Highlights | 🔗 Links |
 |------------|---------------|---------------|----------|
-| ⚖️ **Legal Consultation Appointment System** – Full Stack Developer · Academic Project | Next.js · TypeScript (TSX) · Spring Boot · REST API · MySQL | Developed a web-based legal consultation appointment system connecting clients and lawyers. Implemented client registration, legal consultation requests, lawyer assignment, appointment scheduling, quotations, payment submission, and appointment status management. | 📂 [Repository](https://github.com/your-repo-link)](https://github.com/ballbunyarit/Project_Lawyer) |
+| | 🚀 Project | 🛠️ Tech Stack | 🌸 Highlights | 🔗 Links |
+|------------|---------------|---------------|----------|
+| ⚖️ **Legal Consultation Appointment System** – Full Stack Developer · Academic Project | Next.js · TypeScript (TSX) · Spring Boot · REST API · MySQL | Developed a web-based legal consultation appointment system connecting clients and lawyers. Features include client registration, legal consultation requests, lawyer assignment, appointment scheduling, quotations, payment submission, and appointment status management. | 📂 [Repository](https://github.com/ballbunyarit/Project_Lawyer) |
 | 💻 Full Stack Developer – Academic Project | HTML · CSS · JavaScript · JSP/Servlet | Built a full-stack web application with login, product listings, and a shopping cart. Applied responsive design principles. | 📂 [Repository](https://github.com/your-repo-link) |
 | 🧪 Web Testing Project – Academic Project | Robot Framework · Selenium | Designed test cases for search, cart, and checkout workflows. Applied keyword-driven testing and generated test reports. | 📂 [Repository](https://github.com/your-repo-link) |
 | ✂️ Barber Booking System – Academic Project | Java · Spring MVC · JSP/Servlet · MySQL | Developed a barber shop booking system with appointment booking, customer management, and schedule management using the MVC pattern. | 📂 [Repository](https://github.com/your-repo-link) |
